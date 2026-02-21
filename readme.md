@@ -31,16 +31,14 @@ Controllare il contenuto del pacchetto
       * prosegui ad incollare le figurine sull'album
     - :ALTRIMENTI 
       * prendi una figurina dal mazzo dal verso della foto
-    * ruotala di 180°
-    * leggi il numero applicato sul retro della figurina
-    * sfoglia le pagine dell'album 
+      * ruotala di 180°
+      * leggi il numero applicato sul retro della figurina
+      * sfoglia le pagine dell'album 
 
 
 
 Applicare nuove figurine sull' album
 
-[] sdsa
-[X] ddsad
 
 
 Scambiare le figurine doppie con gli amici di scuola
