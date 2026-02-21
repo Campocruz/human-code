@@ -5,7 +5,7 @@ Comprare un pacchetto di figurine :
     * andare alla cartolibreria di fiducia :
       - prendere il portafoglio
       - uscire di casa :
-      ? SE è lontana
+      - ? SE è lontana
         * usare un mezzo
-      : ALTRIMENTI
+      - : ALTRIMENTI
         * andare a piedi
