@@ -25,13 +25,22 @@ Aprire il pacchetto di figurine
 
 Controllare il contenuto del pacchetto
   - recuperare l'album dalla libreria accanto la scrivania
-  - 
+  - apri l'album alla prima pagina
+  - 🚴‍♂️ controllo delle singole figurine :
+    - ?SE il mazzo di nuove figurine è vuoto 
+      * prosegui ad incollare le figurine sull'album
+    - :ALTRIMENTI 
+      * prendi una figurina dal mazzo dal verso della foto
+    * ruotala di 180°
+    * leggi il numero applicato sul retro della figurina
+    * sfoglia le pagine dell'album 
 
 
 
 Applicare nuove figurine sull' album
 
-
+[] sdsa
+[X] ddsad
 
 
 Scambiare le figurine doppie con gli amici di scuola
